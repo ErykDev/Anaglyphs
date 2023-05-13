@@ -1,6 +1,7 @@
 # Anaglyphs
 Numpy/OpenCv fast anaglyphs
 
+Read: https://3dtv.at//knowhow/anaglyphcomparison_en.aspx
 
 Original image
 ![example frame](imgs/file.jpg?raw=true "Original image")
